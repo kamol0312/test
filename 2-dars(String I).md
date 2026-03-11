@@ -8,8 +8,8 @@ JavaScript’da string (matn) yaratish uchun **ikki xil qo‘shtirnoq** ishlatil
 ## Misol
 
 ```javascript
-"This is a string";
-'This is another string!';
+"Bu matn";
+'Bu boshqa bir matn!';
 ```
 
 Double quotes yoki single quotes ishlatish o‘rtasida **hech qanday farq yo‘q**. Ular bir xil ishlaydi.
@@ -26,8 +26,8 @@ String interpolation haqida **keyingi darslarda** o‘rganamiz.
 ## Misol
 
 ```javascript
-"Nice!".length;
-// 5
+"Ajoyib!".length;
+// 7
 ```
 
 Agar sizda `text` nomli o‘zgaruvchi bo‘lsa, uning uzunligini quyidagicha olishingiz mumkin:
@@ -48,7 +48,7 @@ Quyida stringlar bilan ishlatiladigan ba’zi **asosiy metodlar** keltirilgan.
 Bu metod stringdagi barcha harflarni **kichik harfga** o‘zgartirib yangi string qaytaradi.
 
 ```javascript
-"BLUE".toLowerCase(); // "blue"
+"ULUgbek".toLowerCase(); // "ulugbek"
 ```
 
 E’tibor bering:
@@ -63,7 +63,7 @@ E’tibor bering:
 Bu metod stringdagi barcha harflarni **katta harfga** o‘zgartirib yangi string qaytaradi.
 
 ```javascript
-"red".toUpperCase(); // "RED"
+"Ulugbek".toUpperCase(); // "ULUGBEK"
 ```
 
 ---
