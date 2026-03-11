@@ -1,6 +1,6 @@
 # Boshlang'ich Funksiyalar haqida tushuncha (Basic functions)
 
-Keling, JavaScript'dagi asosiy funksiyalar bilan boshlaymiz.
+Keling, JavaScript'dagi Basic functions bilan boshlaymiz.
 
 ```javascript
 function sum(x, y) {
