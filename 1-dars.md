@@ -1,4 +1,4 @@
-# Asosiy funksiyalar(Basic functions)
+#Boshlang'ich Funksiyalar haqida tushuncha (Basic functions)
 
 Keling, JavaScript'dagi asosiy funksiyalar bilan boshlaymiz.
 
