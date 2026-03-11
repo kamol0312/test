@@ -1,6 +1,4 @@
-# Asosiy funksiyalar
-
-**Oxirgi yangilanish:** May 2022
+# Asosiy funksiyalar(Basic functions)
 
 Keling, JavaScript'dagi asosiy funksiyalar bilan boshlaymiz.
 
