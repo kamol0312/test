@@ -110,3 +110,11 @@ Siz `console.log()` ishlatganingizdan keyin ham **return yozishingiz kerak**.
 ```javascript
 return a + b;
 ```
+
+## Sample Usage
+
+```javascript
+getTextLength("Hello world");
+makeTextUpper("Laptop");
+makeTextLower("Test");
+```
