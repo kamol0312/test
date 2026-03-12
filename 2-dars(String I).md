@@ -92,13 +92,14 @@ Yuqoridagi kod ishlaganda console’da quyidagilar chiqadi:
 ```
 1
 4
+4
 ```
 
 Sababi:
 
 - `console.log(a)` → 1 ni chiqaradi
 - `console.log(a + b)` → 4 ni chiqaradi
-
+- `return a + b` → 4 ni chiqaradi
 ---
 
 # Muhim eslatma
@@ -111,7 +112,7 @@ Siz `console.log()` ishlatganingizdan keyin ham **return yozishingiz kerak**.
 return a + b;
 ```
 
-## Sample Usage
+## Misollar
 
 ```javascript
 getTextLength("Hello world");
