@@ -1,7 +1,5 @@
 # String ichidagi belgiga murojaat qilish (Character Access)
 
-**Oxirgi yangilanish:** October 2025
-
 JavaScript’da string ichidagi ma'lum bir belgiga **kvadrat qavslar `[]`** yordamida murojaat qilish mumkin.
 
 Buning uchun siz **index (pozitsiya)** ni ko‘rsatishingiz kerak. Index **0 dan boshlanadi**.
